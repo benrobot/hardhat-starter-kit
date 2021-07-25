@@ -1,3 +1,26 @@
+## Summer 2021 Smart Contract Developer Bootcamp!
+This repository was created as part of completing Summer 2021 Smart Contract Developer Bootcamp. It is mostly a clone of https://github.com/smartcontractkit/hardhat-starter-kit except for the work done from the exercises found at this document https://docs.google.com/document/d/1QzZPC2qSxYLF0-OxF1ku6RV7PRLWIIMNOjk-wd3a7n0/edit#
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
